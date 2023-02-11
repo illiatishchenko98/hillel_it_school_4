@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  margin: 10px;
+}
+h2 {
+  color: red;
+}
+#first_sel {
+  color: blue;
+}
+.s_2 {
+  color: green;
+}
+.s_3 {
+  color: aqua;
+}
+.s_3 .description {
+  color: blueviolet;
+}
+body .s_4 {
+  color: green;
+}
+.s_4.additional {
+  color: rgb(17, 13, 13);
+}
